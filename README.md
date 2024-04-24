@@ -1,3 +1,3 @@
-repository for ml projects
+Repository for ml projects
 
 
