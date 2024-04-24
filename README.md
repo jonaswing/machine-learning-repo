@@ -1,3 +1,3 @@
-Repository for ml projects
+Repository for ml projects and experiments
 
 
