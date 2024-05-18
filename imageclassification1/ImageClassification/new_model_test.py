@@ -4,7 +4,7 @@ import cv2
 import tensorflow as tf
 import os
 
-img = cv2.imread('guy6.jpg')
+img = cv2.imread('images/hot2.jpg')
 
 resize = tf.image.resize(img, (256,256))
 
